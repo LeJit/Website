@@ -12,7 +12,7 @@ weight = 1
 # List your academic interests.
 [interests]
   interests = [
-    "Machine Learning Theory",
+    "Statistical Learning Theory",
     "Data Science for Social Good",
     "Anomaly and Outlier Detection"
   ]
@@ -24,7 +24,7 @@ weight = 1
 #  year = 2012
 
 [[education.courses]]
-  course = "Graduate Certificate in Mining Massive Datasets (In Progress)"
+  course = "Graduate Certificate in Mining Massive Datasets"
   institution = "Stanford University"
   year = 2017
 
@@ -40,8 +40,8 @@ weight = 1
 +++
 
 # Biography
+I am a Big Data Developer at AppEagle where I architect data pipelines for intelligent re-pricing.
 
-I am the lead Data Scientist at STEALTHbits Technologies where I research and design anomaly detection algorithms for STEALTHbit's security software products. I am also pursuing a Graduate Certificate in Mining Massive Datasets from Stanford University.
+I was previously the lead Data Scientist at STEALTHbits Technologies where I researched and designed anomaly detection algorithms for STEALTHbit's security software products. 
 
-Before that, I was a Data Scientist at Verizon Wireless where I developed customer segmentation models used by the Verizon's marketing teams.
 

@@ -20,9 +20,9 @@ defaultContentLanguageInSubdir = false
 
 [params]
   name = "Manojit Nandi"
-  role = "Lead Data Scientist"
-  organization = "STEALTHbits Technologies"
-  organization_url = "https://www.stealthbits.com/"
+  role = "Big Data Developer"
+  organization = "AppEagle"
+  organization_url = "https://www.appeagle.com/"
   avatar = "smilingCat.jpg"
   email = "mnandi92@gmail.com"
   phone = ""
