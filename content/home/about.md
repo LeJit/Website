@@ -23,10 +23,10 @@ weight = 1
 #  institution = "Stanford University"
 #  year = 2012
 
-[[education.courses]]
-  course = "Graduate Certificate in Mining Massive Datasets"
-  institution = "Stanford University"
-  year = 2017
+#[[education.courses]]
+#  course = "Graduate Certificate in Mining Massive Datasets"
+#  institution = "Stanford University"
+#  year = 2017
 
 [[education.courses]]
   course = "BSc in Decision Science"
@@ -40,8 +40,8 @@ weight = 1
 +++
 
 # Biography
-I am a Big Data Developer at AppEagle where I architect data pipelines for intelligent re-pricing.
+I am a Big Data Developer at AppEagle where I architected a data lake ecosystem for processing raw data streams in an efficient and easily accesible manner. In addition, I am a Data Science mentor for Thinkful's Flexible Data Science bootcamp.
 
-I was previously the lead Data Scientist at STEALTHbits Technologies where I researched and designed anomaly detection algorithms for STEALTHbit's security software products. 
+Before that, I was the lead Data Scientist at STEALTHbits Technologies where I researched and designed anomaly detection algorithms for STEALTHbit's security software products. 
 
 
