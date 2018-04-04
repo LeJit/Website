@@ -1,6 +1,6 @@
 baseurl = "LeJit.github.io"
 title = "Manojit Nandi"
-copyright = "&copy; 2017 Manojit Nandi"
+copyright = "&copy; 2018 Manojit Nandi"
 theme = "academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
@@ -9,7 +9,7 @@ footnotereturnlinkcontents = "<sup>^</sup>"
 disqusShortname = ""
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = ""
+googleAnalytics = "UA-115954465-1"
 
 # Default language to use (if you setup multilingual support)
 defaultContentLanguage = "en"
@@ -20,9 +20,9 @@ defaultContentLanguageInSubdir = false
 
 [params]
   name = "Manojit Nandi"
-  role = "Big Data Developer"
-  organization = "AppEagle"
-  organization_url = "https://www.appeagle.com/"
+  role = "Data Scientist"
+  organization = "Rocketrip"
+  organization_url = "https://www.rocketrip.com/"
   avatar = "smilingCat.jpg"
   email = "mnandi92@gmail.com"
   phone = ""

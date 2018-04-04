@@ -40,8 +40,8 @@ weight = 1
 +++
 
 # Biography
-I am a Big Data Developer at AppEagle where I architected a data lake ecosystem for processing raw data streams in an efficient and easily accesible manner. In addition, I am a Data Science mentor for Thinkful's Flexible Data Science bootcamp.
+I am a Data Scientist at [Rocketrip](www.rocketrip.com) where . In addition, I am a Data Science mentor for Thinkful's Flexible Data Science bootcamp.
 
-Before that, I was the lead Data Scientist at STEALTHbits Technologies where I researched and designed anomaly detection algorithms for STEALTHbit's security software products. 
+I have previously worked at Informed.co, STEALTHbits Technologies, and Verizon Wireless as a data scientist. I am interested in using my data science skills to solve problems with high societal impact.
 
 
