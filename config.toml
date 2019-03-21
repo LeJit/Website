@@ -1,6 +1,6 @@
 baseurl = "LeJit.github.io"
 title = "Manojit Nandi"
-copyright = "&copy; 2018 Manojit Nandi"
+copyright = "&copy; 2019 Manojit Nandi"
 theme = "academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
@@ -20,9 +20,9 @@ defaultContentLanguageInSubdir = false
 
 [params]
   name = "Manojit Nandi"
-  role = "Data Scientist"
-  organization = "Rocketrip"
-  organization_url = "https://www.rocketrip.com/"
+  role = "Senior Data Scientist"
+  organization = "J.P. Morgan Chase"
+  organization_url = "https://www.jpmorganchase.com/"
   avatar = "smilingCat.jpg"
   email = "mnandi92@gmail.com"
   phone = ""
